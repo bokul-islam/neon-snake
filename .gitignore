@@ -6,3 +6,6 @@ dist/
 .DS_Store
 *.log
 .vite/
+node_modules
+dist
+*.local
